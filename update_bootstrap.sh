@@ -14,4 +14,4 @@ rm -rf assets/javascript/bootstrap
 mkdir -p assets/javascript/bootstrap
 cp node_modules/bootstrap/dist/js/bootstrap.bundle.min.* assets/javascript/bootstrap/
 cp node_modules/jquery/dist/jquery.min.* assets/javascript/bootstrap/
-touch assets/javascript/bootstrap/__DO_NOT_MODIFY
+touch assets/javascript/bootstrap/__DO_N
